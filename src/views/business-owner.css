@@ -1,0 +1,485 @@
+.business-owner-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.business-owner-business-owner {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 49, 64, 1);
+}
+.business-owner-first-name-container {
+  top: 103px;
+  left: 1182px;
+  width: 260px;
+  height: 93.60000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-first-name {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line5 {
+  left: 0px;
+  width: 260px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-first-name1 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 3.2000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-last-name-container {
+  top: 103px;
+  left: 1626px;
+  width: 260px;
+  height: 93.60000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-last-name {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line6 {
+  left: 0px;
+  width: 260px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-last-name1 {
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 3.2000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-email-address-container {
+  top: 239px;
+  left: 1182px;
+  width: 704px;
+  height: 100.60000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-email-address {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line7 {
+  left: 0px;
+  width: 704px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-email-address1 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 10.200000405311584px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-password {
+  top: 663px;
+  left: 1183px;
+  width: 260px;
+  height: 95.60000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-password1 {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line9 {
+  left: 0px;
+  width: 260px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.business-owner-password2 {
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 5.2000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-business-certificate-container {
+  top: 792px;
+  left: 1183px;
+  width: 236.58750915527344px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-business-certificate {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-upload-file {
+  top: 36px;
+  left: 2px;
+  color: rgb(0, 49, 64);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 4px;
+  border-color: #ffffff;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 4px;
+  text-decoration: none;
+  background-color: #D9D9D9;
+}
+.business-owner-confirm-password-container {
+  top: 663px;
+  left: 1627px;
+  width: 260px;
+  height: 95.60000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-confirm-password {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line10 {
+  left: 0px;
+  width: 260px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-confirm-password1 {
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 5.2000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-phone-number-container {
+  top: 532px;
+  left: 1183px;
+  width: 705px;
+  height: 98.10000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-phone-number {
+  top: 0px;
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line8 {
+  left: 1px;
+  width: 704px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-phone-number1 {
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 7.7000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-company-container {
+  top: 380px;
+  left: 1184px;
+  width: 705px;
+  height: 98.10000002384186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-company {
+  top: 0px;
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-line11 {
+  left: 1px;
+  width: 704px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.business-owner-company1 {
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 7.7000004053115845px;
+  height: auto;
+  padding: 0px;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  border-radius: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.business-owner-terms-condition-container {
+  top: 905px;
+  left: 1170px;
+  width: 365.2875061035156px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.business-owner-terms-and-conditions {
+  top: 0px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.business-owner-checkbox {
+  top: 2px;
+  left: 0px;
+  width: var(--dl-size-size-small);
+  height: 20px;
+  position: absolute;
+}
+.business-owner-next {
+  top: 938px;
+  left: 1804px;
+  width: 123px;
+  height: 99px;
+  position: absolute;
+  border-width: 0px;
+}
+.business-owner-logo {
+  top: -14px;
+  left: 0px;
+  width: 990px;
+  height: 1093px;
+  position: absolute;
+}
+.business-owner-line1 {
+  top: -3px;
+  left: 0px;
+  right: 0px;
+  height: 100%;
+  margin: auto;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}

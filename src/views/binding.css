@@ -1,0 +1,136 @@
+.binding-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.binding-binding {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 49, 64, 1);
+}
+.binding-register {
+  top: 919.5px;
+  left: 1374.5px;
+  width: 260px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.binding-register-background {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 43px;
+  position: absolute;
+  border-radius: 12px;
+}
+.binding-register1 {
+  top: 4px;
+  left: 69px;
+  color: rgba(0, 49, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.binding-bind-container {
+  top: 246px;
+  left: 1119px;
+  width: 737px;
+  height: 514px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.binding-background {
+  top: 0px;
+  left: 0px;
+  width: 737px;
+  height: 514px;
+  position: absolute;
+}
+.binding-integration {
+  top: 20px;
+  color: rgb(0, 49, 64);
+  right: 6px;
+  width: 713px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.binding-bind-frame {
+  gap: 10px;
+  top: 236px;
+  left: 51px;
+  width: 659px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 11px;
+  justify-content: center;
+  background-color: rgba(0, 49, 64, 1);
+}
+.binding-select-platform-to-bind {
+  color: rgba(255, 255, 255, 1);
+  width: 301px;
+  height: auto;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.binding-vector {
+  width: 20px;
+  height: 13px;
+}
+.binding-integration1 {
+  top: 119px;
+  left: 1127px;
+  color: rgba(255, 255, 255, 1);
+  width: 713px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.binding-logo {
+  top: -14px;
+  left: 0px;
+  width: 990px;
+  height: 1093px;
+  position: absolute;
+}

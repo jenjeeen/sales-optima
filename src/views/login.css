@@ -1,0 +1,174 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(0, 49, 64, 1);
+}
+.login-line1 {
+  left: 1002px;
+  bottom: -4px;
+  height: 100%;
+  margin: auto;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.login-signin {
+  top: 603px;
+  left: 270px;
+  width: 450px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-width: 0px;
+  background-color: rgba(0, 49, 64, 1);
+}
+.login-sign-in {
+  top: 25px;
+  left: 177px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-password {
+  top: 475px;
+  left: 267px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-register {
+  top: 775px;
+  left: 446px;
+  color: rgba(255, 255, 255, 0.63);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-forgot-password {
+  top: 737px;
+  left: 389px;
+  color: rgba(255, 255, 255, 0.63);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-email-label {
+  top: 289px;
+  left: 267px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-email-line {
+  top: 410.0180969238281px;
+  left: 269.9977111816406px;
+  width: 450px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.login-password-line {
+  top: 580.01806640625px;
+  left: 269.9977111816406px;
+  width: 450px;
+  height: 1px;
+  position: absolute;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+.login-email {
+  top: 357px;
+  left: 269px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0);
+}
+.login-password1 {
+  top: 538px;
+  left: 269px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  border-width: 0px;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: transparent;
+}
+.login-logo {
+  top: 0px;
+  right: 28px;
+  width: 973px;
+  height: 1080px;
+  position: absolute;
+}

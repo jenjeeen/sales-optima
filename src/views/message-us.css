@@ -1,0 +1,215 @@
+.message-us-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.message-us-client-feedback-message-page {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(203, 203, 203, 1);
+}
+.message-us-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1980px;
+  height: 1080px;
+  position: absolute;
+}
+.message-us-text {
+  top: 110px;
+  left: 1844px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.message-us-online-support {
+  top: 33px;
+  left: 1832px;
+  width: 92px;
+  height: 77px;
+  position: absolute;
+}
+.message-us-text02 {
+  top: 21px;
+  left: 186px;
+  color: rgba(255, 255, 255, 1);
+  width: 552px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.message-us-text03 {
+  color: rgba(255, 255, 255, 1);
+}
+.message-us-line4 {
+  top: 1459.0166015625px;
+  left: 476.6824035644531px;
+  width: 1318px;
+  height: 1px;
+  position: absolute;
+}
+.message-us-text05 {
+  top: 212px;
+  left: 639px;
+  color: rgba(0, 49, 64, 1);
+  width: 1195px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.message-us-group6 {
+  top: 400px;
+  left: 957px;
+  width: 533.0001831054688px;
+  height: 446.2687072753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.message-us-desc {
+  top: 136.24774169921875px;
+  left: 0px;
+  width: 533px;
+  height: 229.85743713378906px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.message-us-text10 {
+  left: 12.265690803527832px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.message-us-frame2 {
+  gap: 10px;
+  top: 49.49083709716797px;
+  left: 0px;
+  width: 533px;
+  height: 180.36660766601562px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.message-us-textarea {
+  width: 644px;
+  height: 191px;
+}
+.message-us-title {
+  top: 0px;
+  left: 1.115234375px;
+  width: 531.8849487304688px;
+  height: 110.23597717285156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.message-us-text12 {
+  left: 11.150628089904785px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.message-us-frame1 {
+  gap: 10px;
+  left: 0px;
+  width: 532px;
+  bottom: 0px;
+  height: 59.93412399291992px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.6499999761581421);
+  border-style: solid;
+  border-width: 1px;
+  justify-content: center;
+  background-color: rgba(210, 217, 221, 1);
+}
+.message-us-textinput {
+  width: 812px;
+}
+.message-us-sendbutton {
+  top: 400px;
+  left: 207px;
+  width: 119.46234130859375px;
+  height: 46.26869583129883px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 49, 64, 1);
+}
+.message-us-sendtext {
+  top: 3.385986328125px;
+  left: 21.1865234375px;
+  color: rgba(255, 255, 255, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

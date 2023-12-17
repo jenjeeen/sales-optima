@@ -1,0 +1,311 @@
+.help-center-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.help-center-page-help-center-page {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: #FFFFF8;
+}
+.help-center-page-line {
+  left: 448px;
+  width: auto;
+  bottom: -2px;
+  height: auto;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+}
+.help-center-page-how-can-we-help {
+  top: 200px;
+  left: 909px;
+  color: rgba(0, 49, 64, 1);
+  width: 635px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-searchhcwh {
+  gap: 10px;
+  top: 306px;
+  left: 850px;
+  width: 760px;
+  height: 63px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0.6499999761581421);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 26px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.help-center-page-contacts-message-reports {
+  color: rgba(0, 0, 0, 0.65);
+  width: 680px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-pdf {
+  top: 454px;
+  left: 992px;
+  width: 459px;
+  height: 471px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-pdf-background {
+  top: 0px;
+  left: 0px;
+  width: 459px;
+  height: 471px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.help-center-page-handbook-title {
+  top: 36px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  width: 382px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-pdf-logo {
+  top: 209px;
+  left: 193px;
+  width: 75px;
+  height: 107.1328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-vector {
+  top: 68.257568359375px;
+  left: 20.408203125px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.help-center-page-vector1 {
+  top: 68.257568359375px;
+  left: 32.423828125px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.help-center-page-vector2 {
+  top: 68.25762176513672px;
+  left: 45.907432556152344px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+}
+.help-center-page-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 107px;
+  position: absolute;
+}
+.help-center-page-faqs {
+  top: 454px;
+  left: 1480px;
+  width: 459px;
+  height: 471px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-faq-background {
+  top: 0px;
+  left: 0px;
+  width: 459px;
+  height: 471px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.help-center-page-faq-title {
+  top: 36px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  width: 382px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-faq {
+  top: 219px;
+  left: 115px;
+  color: rgb(0, 0, 0);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-youtube {
+  top: 454px;
+  left: 505px;
+  width: 459px;
+  height: 471px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-yt-background {
+  top: 0px;
+  left: 0px;
+  width: 459px;
+  height: 471px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.help-center-page-tutorial-video-title {
+  top: 37px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 383px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-frameiconyoutube {
+  top: 221px;
+  left: 172px;
+  width: 126.87142944335938px;
+  height: 88.66857147216797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 127px;
+  height: 89px;
+  position: absolute;
+}
+.help-center-page-search-bar {
+  top: 168px;
+  left: 1806px;
+  width: 156px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 20px;
+  background-color: rgba(0, 49, 64, 1);
+}
+.help-center-page-search-text {
+  top: 7px;
+  left: 20px;
+  color: rgba(255, 255, 255, 0.75);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-center-page-search-logo {
+  top: 7px;
+  left: 116px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.help-center-page-elements {
+  top: 2px;
+  left: 22px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.help-center-page-vector5 {
+  top: 15.5px;
+  left: -4.5px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.help-center-page-vector6 {
+  top: 0px;
+  left: -20px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}

@@ -1,0 +1,267 @@
+.navbar-navbar {
+  width: 394px;
+  height: 745px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar-navlink {
+  display: contents;
+}
+.navbar-homebutton {
+  top: 0px;
+  left: 102px;
+  width: 83.6624984741211px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.navbar-hometext {
+  top: 0px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-homelogo {
+  top: -5px;
+  left: -104px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.navbar-customersbutton {
+  top: 121px;
+  left: 104px;
+  width: 153.97500610351562px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.navbar-customerstext {
+  top: 0px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-customerslogo {
+  top: -8px;
+  left: -105px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.navbar-productbutton {
+  top: 242px;
+  left: 101px;
+  width: 111.3125px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.navbar-navlink1 {
+  display: contents;
+}
+.navbar-producttext {
+  top: 0px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-productlogo {
+  top: -8px;
+  left: -105px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.navbar-navlink2 {
+  display: contents;
+}
+.navbar-logoutbutton {
+  left: 0px;
+  width: 50px;
+  bottom: 0px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.navbar-logoutlogo {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.navbar-logouttext {
+  color: rgba(0, 0, 0, 1);
+  right: -143px;
+  bottom: 2px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-navlink3 {
+  display: contents;
+}
+.navbar-messagepage {
+  left: 0px;
+  width: 50px;
+  bottom: 212px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.navbar-messagelogo {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.navbar-messagetext {
+  top: 5px;
+  color: rgba(0, 0, 0, 1);
+  right: -220px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-navlink4 {
+  display: contents;
+}
+.navbar-dbrbutton {
+  top: 369px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.navbar-dbrlogo {
+  fill: #003140;
+  width: 62px;
+  height: 76px;
+  align-self: center;
+}
+.navbar-dbrtext {
+  top: -18px;
+  color: rgba(0, 0, 0, 1);
+  right: -252px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navbar-root-class-name {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name1 {
+  top: 230px;
+  left: 82px;
+  bottom: 0px;
+  position: absolute;
+  align-self: center;
+}
+.navbar-root-class-name2 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name3 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name4 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name5 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name6 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name7 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
+.navbar-root-class-name8 {
+  top: 230px;
+  left: 82px;
+  position: absolute;
+}
