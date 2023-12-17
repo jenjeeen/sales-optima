@@ -1,3 +1,4 @@
+/* Navbar Container */
 .navbar-navbar {
   width: 394px;
   height: 745px;
@@ -6,13 +7,17 @@
   align-items: center;
   justify-content: flex-start;
 }
+
+/* Common styles for nav links */
 .navbar-navlink {
   display: contents;
 }
+
+/* Home Button */
 .navbar-homebutton {
   top: 0px;
   left: 102px;
-  width: 83.6624984741211px;
+  width: 83.66px;
   height: 36px;
   display: flex;
   position: absolute;
@@ -20,6 +25,8 @@
   justify-content: flex-start;
   text-decoration: none;
 }
+
+/* Home Text */
 .navbar-hometext {
   top: 0px;
   left: 0px;
@@ -27,7 +34,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -35,6 +42,8 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+/* Home Logo */
 .navbar-homelogo {
   top: -5px;
   left: -104px;
@@ -42,10 +51,12 @@
   height: 50px;
   position: absolute;
 }
+
+/* Customers Button */
 .navbar-customersbutton {
   top: 121px;
   left: 104px;
-  width: 153.97500610351562px;
+  width: 153.98px;
   height: 36px;
   display: flex;
   position: absolute;
@@ -53,6 +64,8 @@
   justify-content: flex-start;
   text-decoration: none;
 }
+
+/* Customers Text */
 .navbar-customerstext {
   top: 0px;
   left: 0px;
@@ -60,7 +73,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -68,6 +81,8 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+/* Customers Logo */
 .navbar-customerslogo {
   top: -8px;
   left: -105px;
@@ -75,10 +90,12 @@
   height: 50px;
   position: absolute;
 }
+
+/* Product Button */
 .navbar-productbutton {
   top: 242px;
   left: 101px;
-  width: 111.3125px;
+  width: 111.31px;
   height: 36px;
   display: flex;
   position: absolute;
@@ -86,9 +103,8 @@
   justify-content: flex-start;
   text-decoration: none;
 }
-.navbar-navlink1 {
-  display: contents;
-}
+
+/* Product Text */
 .navbar-producttext {
   top: 0px;
   left: 0px;
@@ -96,7 +112,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -104,6 +120,8 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+/* Product Logo */
 .navbar-productlogo {
   top: -8px;
   left: -105px;
@@ -111,9 +129,8 @@
   height: 50px;
   position: absolute;
 }
-.navbar-navlink2 {
-  display: contents;
-}
+
+/* Logout Button */
 .navbar-logoutbutton {
   left: 0px;
   width: 50px;
@@ -125,6 +142,8 @@
   flex-shrink: 1;
   text-decoration: none;
 }
+
+/* Logout Logo */
 .navbar-logoutlogo {
   top: 0px;
   left: 0px;
@@ -132,6 +151,8 @@
   height: 50px;
   position: absolute;
 }
+
+/* Logout Text */
 .navbar-logouttext {
   color: rgba(0, 0, 0, 1);
   right: -143px;
@@ -139,7 +160,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -147,9 +168,8 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.navbar-navlink3 {
-  display: contents;
-}
+
+/* Message Page */
 .navbar-messagepage {
   left: 0px;
   width: 50px;
@@ -161,6 +181,8 @@
   flex-shrink: 1;
   text-decoration: none;
 }
+
+/* Message Logo */
 .navbar-messagelogo {
   top: 0px;
   left: 0px;
@@ -168,6 +190,8 @@
   height: 50px;
   position: absolute;
 }
+
+/* Message Text */
 .navbar-messagetext {
   top: 5px;
   color: rgba(0, 0, 0, 1);
@@ -175,7 +199,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -183,9 +207,8 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.navbar-navlink4 {
-  display: contents;
-}
+
+/* DBR Button */
 .navbar-dbrbutton {
   top: 369px;
   left: 0px;
@@ -197,12 +220,16 @@
   flex-shrink: 1;
   text-decoration: none;
 }
+
+/* DBR Logo */
 .navbar-dbrlogo {
   fill: #003140;
   width: 62px;
   height: 76px;
   align-self: center;
 }
+
+/* DBR Text */
 .navbar-dbrtext {
   top: -18px;
   color: rgba(0, 0, 0, 1);
@@ -210,7 +237,7 @@
   height: auto;
   position: absolute;
   font-size: 30px;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -218,49 +245,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+/* Root Class Names - Example (Update as needed) */
 .navbar-root-class-name {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name1 {
-  top: 230px;
-  left: 82px;
-  bottom: 0px;
-  position: absolute;
-  align-self: center;
-}
-.navbar-root-class-name2 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name3 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name4 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name5 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name6 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name7 {
-  top: 230px;
-  left: 82px;
-  position: absolute;
-}
-.navbar-root-class-name8 {
   top: 230px;
   left: 82px;
   position: absolute;
